@@ -1,0 +1,17 @@
+Rôle : faire circuler les données dans le pipeline
+
+Ici on met :
+
+les flows Apache NiFi
+
+les Airflow DAGs
+
+Ces outils vont :
+
+récupérer les données du scraping
+
+les envoyer vers la base de données
+
+Donc :
+
+Scraping → pipeline data

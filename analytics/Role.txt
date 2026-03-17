@@ -1,0 +1,21 @@
+Rôle : faire l’analyse statistique
+
+Ici on utilisera Python :
+
+Pandas
+
+SciPy
+
+Statsmodels
+
+Analyses possibles :
+
+évolution des prix
+
+volatilité
+
+comparaison entre sites
+
+Donc :
+
+données propres → analyse

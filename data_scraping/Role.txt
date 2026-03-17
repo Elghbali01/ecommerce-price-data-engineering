@@ -1,0 +1,11 @@
+Rôle : collecter les données
+
+Ce dossier contiendra les scripts qui vont :
+scraper les sites e-commerce
+récupérer les prix
+récupérer les avis et ratings
+Exemple de fichiers dedans :
+scraper_amazon.py
+scraper_jumia.py
+products.json
+danc : Internet → données produits

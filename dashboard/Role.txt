@@ -1,0 +1,21 @@
+Rôle : visualiser les résultats
+
+On va créer un dashboard interactif.
+
+Avec :
+
+Streamlit
+
+Plotly
+
+Le dashboard montrera :
+
+évolution des prix
+
+comparaison entre plateformes
+
+analyse par produit
+
+Donc :
+
+analyse → visualisation

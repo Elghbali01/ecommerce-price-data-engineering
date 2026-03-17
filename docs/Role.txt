@@ -1,0 +1,14 @@
+Rôle : documentation du projet
+
+On met ici :
+
+diagramme d’architecture
+
+explication du pipeline
+
+images du projet
+
+Exemple :
+
+architecture_pipeline.png
+system_design.md

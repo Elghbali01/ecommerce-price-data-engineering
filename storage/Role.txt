@@ -1,0 +1,26 @@
+Rôle : définir la base de données
+
+Ce dossier contient :
+
+le schéma de la base
+
+la structure des tables
+
+Par exemple :
+
+product_id
+price
+rating
+timestamp
+
+La base peut être :
+
+Bigtable
+
+BigQuery
+
+PostgreSQL
+
+Donc :
+
+Pipeline → base de données

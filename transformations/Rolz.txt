@@ -1,0 +1,20 @@
+Rôle : nettoyer et préparer les données
+
+Ici on utilise dbt.
+
+On va :
+
+nettoyer les données
+
+supprimer les doublons
+
+créer des tables analytiques
+
+Exemple :
+
+prix moyen par produit
+prix moyen par site
+
+Donc :
+
+données brutes → données propres
